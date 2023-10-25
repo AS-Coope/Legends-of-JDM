@@ -61,8 +61,8 @@ header a {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: pink;
-    color: black;
+    background-color: rgb(85, 80, 80);
+    color: white;
 }
 
 .car-card:hover {

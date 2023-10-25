@@ -2,67 +2,77 @@
 body {
     box-sizing: border-box;
     margin: 0;
+
     color: white;
     background-color: rgb(26, 24, 24);
 }
 
 /* Header Stylings */
 header {
-    background-color: rgb(54, 54, 54);
     height: 10vh;
+
     display: flex;
     justify-content: center;
     align-items: center;
+
+    background-color: rgb(54, 54, 54);
 }
 
 header a {
-    text-decoration: none;
-    color: white;
     font-size: 28px;
     font-weight: 900;
+
+    text-decoration: none;
+    color: white;
 }
 
 /*Car Card Stylings */
 
 .car-cards {
+    padding: 40px;
+
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    padding: 40px;
     grid-gap: 40px;
 }
 
 .car-card-grid-item {
+    height: 300px;
+
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 300px;
 }
 
 .car-card {
     width: 300px;
     height: 250px;
-    /*Border color should change only on hover*/
     border-radius: 20px;
-    align-items: center;
+    /*Not really needed since it is applied on hover, where it is truly needed, but just in case*/
+
     display: flex;
     flex-direction: column;
+    align-items: center;
 }
 
 .temp-img {
     width: 300px;
     height: 200px;
-    background-color: white;
+
     border-radius: 18px 18px 0 0;
+    background-color: white;
 }
 
 .car-name {
-    border-radius: 0 0 18px 18px;
     width: 300px;
+    border-radius: 0 0 18px 18px;
+
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgb(85, 80, 80);
+
     color: white;
+    background-color: rgb(85, 80, 80);
 }
 
 .car-card:hover {

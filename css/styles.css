@@ -40,7 +40,6 @@ header a {
 .car-card {
     width: 300px;
     height: 250px;
-    border: orange 2px solid;
     /*Border color should change only on hover*/
     border-radius: 20px;
     align-items: center;
@@ -51,10 +50,18 @@ header a {
 .temp-img {
     width: 300px;
     height: 200px;
+    border-top: orange 2px solid;
+    border-left: orange 2px solid;
+    border-right: orange 2px solid;
     background-color: white;
+    border-radius: 18px 18px 0 0;
 }
 
 .car-name {
+    border-radius: 0 0 18px 18px;
+    border-bottom: orange 2px solid;
+    border-left: orange 2px solid;
+    border-right: orange 2px solid;
     width: 300px;
     display: flex;
     justify-content: center;

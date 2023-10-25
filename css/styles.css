@@ -1,4 +1,21 @@
 /* General Stylings */
 body {
     box-sizing: border-box;
+    margin: 0;
+}
+
+/* Header Stylings */
+header {
+    background-color: rgb(54, 54, 54);
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header a {
+    text-decoration: none;
+    color: white;
+    font-size: 28px;
+    font-weight: 900;
 }

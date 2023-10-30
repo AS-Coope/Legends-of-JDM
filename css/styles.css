@@ -63,6 +63,11 @@ header a {
     background-color: white;
 }
 
+.temp-img img {
+    width: inherit;
+    height: inherit;
+}
+
 .car-name {
     width: 300px;
     border-radius: 0 0 18px 18px;

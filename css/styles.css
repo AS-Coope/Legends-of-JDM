@@ -16,6 +16,16 @@ a {
     text-decoration: none;
 }
 
+/* Intro section stylings */
+.intro {
+    padding: 40px 20rem;
+    text-align: center;
+}
+
+#special-title {
+    color: orange;
+}
+
 /* Header Stylings */
 header {
     height: 10vh;

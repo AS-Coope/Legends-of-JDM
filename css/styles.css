@@ -7,6 +7,10 @@ body {
     background-color: rgb(26, 24, 24);
 }
 
+a {
+    text-decoration: none;
+}
+
 /* Header Stylings */
 header {
     height: 10vh;

@@ -7,6 +7,11 @@ body {
     background-color: rgb(26, 24, 24);
 }
 
+.container {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
 a {
     text-decoration: none;
 }
@@ -87,4 +92,20 @@ header a {
 .car-card:hover {
     border: orange 2px solid;
     border-radius: 20px;
+}
+
+/* Car Intro Stylings */
+.intro-info {
+    display: flex;
+    padding-top: 100px;
+    gap: 50px;
+}
+
+.intro-info img {
+    width: 50vw;
+    height: auto;
+}
+
+.car-description h1 {
+    margin: 0px;
 }

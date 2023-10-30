@@ -99,6 +99,7 @@ header a {
     display: flex;
     padding-top: 100px;
     gap: 50px;
+    flex-wrap: wrap;
 }
 
 .intro-info img {

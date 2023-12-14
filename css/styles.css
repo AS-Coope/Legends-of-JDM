@@ -105,6 +105,13 @@ header a {
 }
 
 /* Car Intro Stylings */
+
+.car-brand-container {
+    text-align: center;
+    font-size: 2rem;
+    padding-top: 1rem;
+}
+
 .intro-info {
     display: flex;
     padding-top: 100px;

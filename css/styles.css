@@ -5,6 +5,10 @@ body {
 
     color: white;
     background-color: rgb(26, 24, 24);
+
+    /*Industrial Font Stack*/
+    font-family: Bahnschrift, 'DIN Alternate', 'Franklin Gothic Medium', 'Nimbus Sans Narrow', sans-serif-condensed, sans-serif;
+    font-weight: normal;
 }
 
 .container {

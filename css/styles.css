@@ -147,6 +147,11 @@ header a {
     padding: 1rem;
 }
 
+.description-header-container {
+    border-bottom: 4px solid white;
+    margin-bottom: 1.5rem;
+}
+
 .car-description-container h1 {
     margin: 0px;
 }

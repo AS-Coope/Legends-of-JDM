@@ -137,6 +137,12 @@ header a {
     align-self: center
 }
 
-.car-description h1 {
+.car-description-container {
+    border-radius: 0.4rem;
+    background-color: hsla(0, 0%, 63%, 0.5);
+    padding: 1rem;
+}
+
+.car-description-container h1 {
     margin: 0px;
 }

@@ -12,8 +12,8 @@ body {
 }
 
 .container {
-    padding-left: 3rem;
-    padding-right: 3rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
 }
 
 a {
@@ -52,16 +52,14 @@ header a {
 /*Car Card Stylings */
 
 .car-cards {
-    padding: 40px;
 
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
-    grid-gap: 40px;
+    grid-template-columns: repeat(auto-fit, minmax(20rem, 2fr));
+    grid-gap: 1rem;
 }
 
 .car-card-grid-item {
-    height: 300px;
-
+    height: 270px;
     display: flex;
     align-items: center;
     justify-content: center;

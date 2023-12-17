@@ -108,6 +108,10 @@ header a {
 
 /* Car Intro Stylings */
 
+.specific-car-container {
+    padding: 0 2rem;
+}
+
 .car-brand-container {
     text-align: center;
     font-size: 2rem;

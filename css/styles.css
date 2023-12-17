@@ -12,8 +12,8 @@ body {
 }
 
 .container {
-    padding-left: 100px;
-    padding-right: 100px;
+    padding-left: 3rem;
+    padding-right: 3rem;
 }
 
 a {
@@ -22,8 +22,8 @@ a {
 
 /* Intro section stylings */
 .intro {
-    padding: 40px 20rem;
-    text-align: center;
+    padding: 40px 2rem;
+    text-align: left;
 }
 
 #special-title {

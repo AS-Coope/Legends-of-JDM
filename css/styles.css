@@ -121,6 +121,8 @@ header a {
 .intro-info {
     display: flex;
     padding-top: 3rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
     gap: 50px;
     flex-wrap: wrap;
 }

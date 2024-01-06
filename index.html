@@ -26,48 +26,20 @@ title: Legends of JDM
 
             <div class="car-cards">
 
+                {% for car in site.data.cars %}
                 <div class="car-card-grid-item">
-                    <a href="pages/nissan-skyline-gtr-r34.html">
+                    <a href="{{ car.link }}">
                         <div class="car-card">
-                            <img class="temp-img" src="img/2001_Nissan_Skyline_GT-R_V-Spec_II_R34.jpg"
-                                alt="2001 Nissan Skyline GT-R V-Spec II R34">
+                            <img class="temp-img" src="{{ car.car-image }}" alt="{{ car.alt }}">
 
                             <div class="car-name">
-                                <p>Nissan Skyline GT-R R34</p>
+                                <p>{{ car.name }}</p>
                             </div>
                         </div>
                     </a>
                 </div>
+                {% endfor %}
 
-                <div class="car-card-grid-item">
-                    <div class="car-card">
-                        <!--<img> Image of specific car-->
-                        <div class="temp-img"></div>
-                        <div class="car-name">
-                            <p>Car Title</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="car-card-grid-item">
-                    <div class="car-card">
-                        <!--<img> Image of specific car-->
-                        <div class="temp-img"></div>
-                        <div class="car-name">
-                            <p>Car Title</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="car-card-grid-item">
-                    <div class="car-card">
-                        <!--<img> Image of specific car-->
-                        <div class="temp-img"></div>
-                        <div class="car-name">
-                            <p>Car Title</p>
-                        </div>
-                    </div>
-                </div>
 
             </div>
 

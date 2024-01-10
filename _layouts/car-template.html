@@ -22,7 +22,11 @@
 
 
         <div class="car-brand-container">
-            Nissan
+            {% for brand in site.data.car-brands %}
+            {% if car.car-name contains brand.brand-name %}
+            {{brand.brand-name}}
+            {% endif %}
+            {% endfor %}
         </div>
 
         <div class="specific-car-container">

@@ -19,11 +19,12 @@ brand: Nissan
         </div>
 
         <div class="car-container">
-            <h1>Nissan</h1>
+            <h1>{{page.brand}}</h1>
 
             <div class="car-cards">
 
                 {% for car in site.data.cars %}
+                {% if car.name contains page.brand %}
                 <div class="car-card-grid-item">
                     <a href="{{ car.link }}">
                         <div class="car-card">
@@ -35,6 +36,7 @@ brand: Nissan
                         </div>
                     </a>
                 </div>
+                {% endif %}
                 {% endfor %}
 
 

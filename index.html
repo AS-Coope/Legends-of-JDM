@@ -27,14 +27,14 @@ title: Legends of JDM
 
             <div class="car-cards">
 
-                {% for car in site.data.cars %}
+                {% for brand in site.data.car-brands %}
                 <div class="car-card-grid-item">
-                    <a href="{{ car.link }}">
+                    <a href="{{ brand.link }}">
                         <div class="car-card">
-                            <img class="temp-img" src="{{ car.car-image }}" alt="{{ car.alt }}">
+                            <img class="temp-img" src="{{ brand.representative-img }}" alt="{{ brand.alt }}">
 
                             <div class="car-name">
-                                <p>{{ car.name }}</p>
+                                <p>{{ brand.brand-name }}</p>
                             </div>
                         </div>
                     </a>

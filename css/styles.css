@@ -168,3 +168,36 @@ header a {
 .car-description-container h1 {
     margin: 0px;
 }
+
+/* Footer Stylings */
+footer {
+    display: flex;
+    gap: 6rem;
+    background-color: lightgrey;
+    padding: 2rem;
+    margin-top: 2rem;
+}
+
+.resources p {
+    color: black;
+    font-weight: 900;
+    font-size: 1.1rem;
+}
+
+.resources ul {
+    margin: 0;
+    padding: 0;
+}
+
+.resources li {
+    list-style-type: none;
+}
+
+.resources a {
+    font-size: 0.9rem;
+    color: hsla(0, 1%, 23%);
+}
+
+.resources a:hover {
+    color: black;
+}

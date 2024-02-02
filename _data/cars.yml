@@ -17,3 +17,8 @@
   link: ../pages/toyota-supra-a80.html
   car-image: ../assets/img/1024px-1994-Toyota-Supra-A80.jpg
   alt: 1994 Toyota Supra A80
+
+- name: Honda NSX
+  link: ../pages/honda-nsx.html
+  car-image: ../assets/img/1024px-Honda-NSX.jpg
+  alt: Honda NSX

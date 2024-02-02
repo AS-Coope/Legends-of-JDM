@@ -4,9 +4,9 @@
   rep-img-alt: 2001 Nissan Skyline GT-R V-Spec II R34
 
 - brand-name: Toyota
-  link: 
-  representative-img: 
-  rep-img-alt:
+  link: ./pages/toyota-brand.html
+  representative-img: ./assets/img/1024px-1994-Toyota-Supra-A80.jpg
+  rep-img-alt: 1994 Toyota Supra A80
 
 - brand-name: Honda
   link:

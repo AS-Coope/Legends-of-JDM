@@ -1,6 +1,6 @@
 - brand-name: Nissan
   link: ./pages/nissan-brand.html
-  representative-img: ./img/2001_Nissan_Skyline_GT-R_V-Spec_II_R34.jpg
+  representative-img: ./assets/img/2001_Nissan_Skyline_GT-R_V-Spec_II_R34.jpg
   rep-img-alt: 2001 Nissan Skyline GT-R V-Spec II R34
 
 - brand-name: Toyota
@@ -25,5 +25,5 @@
 
 - brand-name: Mitsubishi
   link: ./pages/mitsubishi-brand.html
-  representative-img: ./img/1024px-Mitsubishi-Lancer-Evolution.jpg
+  representative-img: ./assets/img/1024px-Mitsubishi-Lancer-Evolution.jpg
   rep-img-alt: 2005 Mitsubishi Lancer Evolution 9

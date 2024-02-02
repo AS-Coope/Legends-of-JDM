@@ -9,9 +9,9 @@
   rep-img-alt: 1994 Toyota Supra A80
 
 - brand-name: Honda
-  link:
-  representative-img: 
-  rep-img-alt:
+  link: ./pages/honda-brand.html
+  representative-img: ./assets/img/1024px-Honda-NSX.jpg
+  rep-img-alt: Honda NSX
 
 - brand-name: Mazda
   link: 

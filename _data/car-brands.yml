@@ -14,9 +14,9 @@
   rep-img-alt: Honda NSX
 
 - brand-name: Mazda
-  link: 
-  representative-img: 
-  rep-img-alt:
+  link: ./pages/mazda-brand.html
+  representative-img: ./assets/img/1024px-Mazda-RX7-FD.jpg
+  rep-img-alt: Mazda RX7 FD
 
 - brand-name: Subaru
   link:  

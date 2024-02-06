@@ -22,3 +22,8 @@
   link: ../pages/honda-nsx.html
   car-image: ../assets/img/1024px-Honda-NSX.jpg
   alt: Honda NSX
+
+- name: Mazda RX7
+  link: ../pages/mazda-rx7.html
+  car-image: ../assets/img/1024px-Mazda-RX7-FD.jpg
+  alt: Mazda RX7

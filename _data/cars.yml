@@ -27,3 +27,8 @@
   link: ../pages/mazda-rx7.html
   car-image: ../assets/img/1024px-Mazda-RX7-FD.jpg
   alt: Mazda RX7
+
+- name: Subaru WRX
+  link: ../pages/subaru-wrx.html
+  car-image: ../assets/img/1024px-04-05-Subaru-WRX-STi-2.jpg
+  alt: Subaru WRX

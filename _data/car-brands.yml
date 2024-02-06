@@ -19,9 +19,9 @@
   rep-img-alt: Mazda RX7 FD
 
 - brand-name: Subaru
-  link:  
-  representative-img: 
-  rep-img-alt:
+  link: ./pages/subaru-brand.html
+  representative-img: ./assets/img/1024px-04-05-Subaru-WRX-STi-2.jpg
+  rep-img-alt: Subaru WRX STi
 
 - brand-name: Mitsubishi
   link: ./pages/mitsubishi-brand.html

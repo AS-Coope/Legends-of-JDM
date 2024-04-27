@@ -31,6 +31,7 @@ a {
 .intro {
     padding: 2.5rem 2rem;
     text-align: left;
+    margin-bottom: -2em;
 }
 
 .intro-text {

@@ -72,6 +72,10 @@ header a {
 
 /*Car Card Stylings */
 
+.car-container {
+    padding: 2.5rem 2rem;
+}
+
 .car-cards {
 
     display: grid;

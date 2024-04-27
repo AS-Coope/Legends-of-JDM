@@ -33,6 +33,20 @@ a {
     text-align: left;
 }
 
+.intro-text {
+    width: 50em;
+}
+
+.intro-secondary-text {
+    font-size: 1.5em;
+    line-height: 1.4em;
+}
+
+#intro-capture {
+    font-size: 5em;
+    margin-bottom: 0.5em;
+}
+
 #special-title {
     color: orange;
 }

@@ -126,9 +126,16 @@ header a {
 }
 
 /*Car Card Stylings */
+@media screen and (max-width: 425px) {
 
-.car-container {
-    padding: 2.5rem 2rem;
+    .car-container {}
+}
+
+@media screen and (min-width: 425px) {
+
+    .car-container {
+        padding: 2.5em;
+    }
 }
 
 .car-cards {
@@ -137,18 +144,24 @@ header a {
     grid-template-columns: repeat(auto-fit, minmax(20rem, 2fr));
     grid-column-gap: 1rem;
     grid-row-gap: 3rem;
+    justify-items: center;
 }
 
-.car-card-grid-item {
-    height: 270px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+@media screen and (max-width: 425px) {
+
+    .car-card-grid-item {
+        width: 15.55em;
+        height: 14em;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
 }
+
 
 .car-card {
-    width: 300px;
-    height: 250px;
+    width: 16.75em;
+    height: 14.625em;
     border-radius: 20px;
     /*Not really needed since it is applied on hover, where it is truly needed, but just in case*/
 
@@ -157,8 +170,9 @@ header a {
     align-items: center;
 }
 
+
 .temp-img {
-    width: 300px;
+    width: inherit;
     height: 200px;
 
     border-radius: 18px 18px 0 0;
@@ -171,7 +185,7 @@ header a {
 }
 
 .car-name {
-    width: 300px;
+    width: 16.75em;
     border-radius: 0 0 18px 18px;
 
     display: flex;

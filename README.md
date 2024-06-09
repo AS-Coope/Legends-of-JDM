@@ -3,6 +3,9 @@
 This is Legends of JDM, a website focused on showcasing interesting details about Japanese cars that have
 grown famous worldwide and could now be deemed 'legendary'. Legends of JDM aims to be a haven of information for anyone to get up to speed with these famous Japanese cars and learn a thing or two about this automotive scene.
 
+<img src="repo_images/legends_of_jdm_v0.5.png" height=auto width=550px alt="Screenshot: Legends of JDM (in alpha) Image">
+
+
 ## Motivation
 Cars are fascinating and the lore surrounding JDM cars specifically is massive and can be seen all over any type of media. As an incentive to deep dive and learn more about each car, and by extension, the manufacturer, and it's impact, this website aims to present a wide range of information, such as stats, images, videos, and more, and have it be as accurate as possible. As such, this website will continue to change, improve and provide more in-depth details about 'legendary' JDM cars.
 

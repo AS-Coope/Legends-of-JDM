@@ -248,6 +248,30 @@ header a {
     padding: 1rem;
 }
 
+@media screen and (min-width:1016px) {
+    .car-description-container {
+        min-width: 18rem;
+    }
+}
+
+@media screen and (max-width:1016px) {
+    .car-description-container {
+        min-width: 16rem;
+    }
+}
+
+@media screen and (min-width:520px) and (max-width:780px) {
+    .car-description-container {
+        min-width: 20rem;
+    }
+}
+
+@media screen and (max-width:417px) {
+    .car-description-container {
+        min-width: 12rem;
+    }
+}
+
 .description-header-container {
     border-bottom: 4px solid white;
     margin-bottom: 1.5rem;

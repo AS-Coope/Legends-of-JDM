@@ -207,6 +207,11 @@ header a {
     padding: 0 2rem;
 }
 
+.specific-car-container section {
+    margin-left: 3rem;
+    max-width: 40rem;
+}
+
 .car-brand-container {
     text-align: center;
     font-size: 2rem;

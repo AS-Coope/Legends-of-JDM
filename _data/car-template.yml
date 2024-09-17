@@ -5,6 +5,25 @@
   contributor-name: MrWalkr
   attribution-licence-link: https://creativecommons.org/licenses/by-sa/4.0
   attribution-licence: CC BY-SA 4.0
+  introduction: |
+    Intro to R-34
+    and more intro
+  history: |
+    History about R-34
+    And more history
+  design: |
+    Cool design of the R-34
+    And another cool design of the r34
+  media: |
+    Some media about R-34
+    And some more media about the r34
+  videos: |
+    Video links
+  images: |
+    Image links
+  related: |
+    Related content
+
 
 - car-name: Mitsubishi Lancer Evolution IX
   info-img-card: ../assets/img/1024px-Mitsubishi-Lancer-Evolution.jpg
@@ -13,6 +32,24 @@
   contributor-name: IFCAR
   attribution-licence-link: https://creativecommons.org/public-domain/
   attribution-licence: Public Domain
+  introduction: |
+    Intro to Evo IX
+    and more intro
+  history: |
+    History about Evo IX
+    And more history
+  design: |
+    Cool design of the Evo IX
+    And another cool design of the Evo IX
+  media: |
+    Some media about Evo IX
+    And some more media about the Evo IX
+  videos: |
+    Video links
+  images: |
+    Image links
+  related: |
+    Related content
 
 - car-name: Toyota Supra A80
   info-img-card: ../assets/img/1024px-1994-Toyota-Supra-A80.jpg
@@ -21,6 +58,24 @@
   contributor-name: Mr.choppers
   attribution-licence-link: https://creativecommons.org/licenses/by-sa/3.0/
   attribution-licence: CC BY-SA 3.0
+  introduction: |
+    Intro to Supra A80
+    and more intro
+  history: |
+    History about Supra A80
+    And more history
+  design: |
+    Cool design of the Supra A80
+    And another cool design of the Supra A80
+  media: |
+    Some media about Supra A80
+    And some more media about the Supra A80
+  videos: |
+    Video links
+  images: |
+    Image links
+  related: |
+    Related content
 
 - car-name: Honda NSX
   info-img-card: ../assets/img/1024px-Honda-NSX.jpg
@@ -29,6 +84,24 @@
   contributor-name: ed g2s
   attribution-licence-link: https://creativecommons.org/licenses/by-sa/3.0/
   attribution-licence: CC BY-SA 3.0
+  introduction: |
+    Intro to NSX
+    and more intro
+  history: |
+    History about NSX
+    And more history
+  design: |
+    Cool design of the NSX
+    And another cool design of the NSX
+  media: |
+    Some media about NSX
+    And some more media about the NSX
+  videos: |
+    Video links
+  images: |
+    Image links
+  related: |
+    Related content
   
 - car-name: Mazda RX7
   info-img-card: ../assets/img/1024px-Mazda-RX7-FD.jpg
@@ -37,6 +110,24 @@
   contributor-name: IFCAR
   attribution-licence-link: https://creativecommons.org/public-domain/
   attribution-licence: Public Domain
+  introduction: |
+    Intro to RX7
+    and more intro
+  history: |
+    History about RX7
+    And more history
+  design: |
+    Cool design of the RX7
+    And another cool design of the RX7
+  media: |
+    Some media about R-34
+    And some more media about the RX7
+  videos: |
+    Video links
+  images: |
+    Image links
+  related: |
+    Related content
 
 - car-name: Subaru WRX
   info-img-card: ../assets/img/1024px-04-05-Subaru-WRX-STi-2.jpg
@@ -45,3 +136,21 @@
   contributor-name: IFCAR
   attribution-licence-link: https://creativecommons.org/public-domain/
   attribution-licence: Public Domain
+  introduction: |
+    Intro to WRX
+    and more intro
+  history: |
+    History about WRX
+    And more history
+  design: |
+    Cool design of the WRX
+    And another cool design of the WRX
+  media: |
+    Some media about WRX
+    And some more media about the WRX
+  videos: |
+    Video links
+  images: |
+    Image links
+  related: |
+    Related content

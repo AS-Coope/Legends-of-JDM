@@ -218,6 +218,10 @@ header a {
     padding-top: 1rem;
 }
 
+.car-brand-container a {
+    color: white;
+}
+
 .intro-info {
     display: flex;
     padding-top: 3rem;

@@ -24,7 +24,7 @@
         <div class="car-brand-container">
             {% for brand in site.data.car-brands %}
             {% if car.car-name contains brand.brand-name %}
-            {{brand.brand-name}}
+            <a href="{{brand.link}}">{{brand.brand-name}}</a>
             {% endif %}
             {% endfor %}
         </div>

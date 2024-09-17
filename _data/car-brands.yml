@@ -1,29 +1,29 @@
 - brand-name: Nissan
-  link: ./pages/nissan-brand.html
+  link: ../pages/nissan-brand.html
   representative-img: ./assets/img/2001_Nissan_Skyline_GT-R_V-Spec_II_R34.jpg
   rep-img-alt: 2001 Nissan Skyline GT-R V-Spec II R34
 
 - brand-name: Toyota
-  link: ./pages/toyota-brand.html
+  link: ../pages/toyota-brand.html
   representative-img: ./assets/img/1024px-1994-Toyota-Supra-A80.jpg
   rep-img-alt: 1994 Toyota Supra A80
 
 - brand-name: Honda
-  link: ./pages/honda-brand.html
+  link: ../pages/honda-brand.html
   representative-img: ./assets/img/1024px-Honda-NSX.jpg
   rep-img-alt: Honda NSX
 
 - brand-name: Mazda
-  link: ./pages/mazda-brand.html
+  link: ../pages/mazda-brand.html
   representative-img: ./assets/img/1024px-Mazda-RX7-FD.jpg
   rep-img-alt: Mazda RX7 FD
 
 - brand-name: Subaru
-  link: ./pages/subaru-brand.html
+  link: ../pages/subaru-brand.html
   representative-img: ./assets/img/1024px-04-05-Subaru-WRX-STi-2.jpg
   rep-img-alt: Subaru WRX STi
 
 - brand-name: Mitsubishi
-  link: ./pages/mitsubishi-brand.html
+  link: ../pages/mitsubishi-brand.html
   representative-img: ./assets/img/1024px-Mitsubishi-Lancer-Evolution.jpg
   rep-img-alt: 2005 Mitsubishi Lancer Evolution 9

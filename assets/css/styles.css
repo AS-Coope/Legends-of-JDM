@@ -231,7 +231,7 @@ header a {
     display: flex;
     flex-direction: column;
     gap: 1rem;
-    background-color: lightcoral;
+    background-color: rgb(147, 165, 185);
     border-radius: 0.25em;
     padding: 5px;
 }

@@ -7,7 +7,7 @@ grown famous worldwide and could now be deemed 'legendary'. Legends of JDM aims 
 
 
 ## Motivation
-Cars are fascinating and the lore surrounding JDM cars specifically is massive and can be seen all over any type of media. As an incentive to deep dive and learn more about each car, and by extension, the manufacturer, and it's impact, this website aims to present a wide range of information, such as stats, images, videos, and more, and have it be as accurate as possible. As such, this website will continue to change, improve and provide more in-depth details about 'legendary' JDM cars.
+Cars are fascinating and the lore surrounding JDM cars specifically is massive and can be seen all over any type of media. As an incentive to deep dive and learn more about each car, and by extension, the manufacturer, and its impact, this website aims to present a wide range of information, such as stats, images, videos, and more, and have it be as accurate as possible. As such, this website will continue to change, improve and provide more in-depth details about 'legendary' JDM cars.
 
 ## Usage
 
